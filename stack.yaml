@@ -1,0 +1,9 @@
+resolver: lts-7.2
+flags: {}
+extra-package-dbs: []
+packages:
+- '.'
+extra-deps:
+- dynamic-graph-0.1.0.9
+- GLUtil-0.9.1.0
+- hpp-0.3.1.0
